@@ -39,3 +39,7 @@ The cat *meows*
      ___________________
 
      Anyways thats enough for now, here is a picture of a [cat](https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/cat_relaxing_on_patio_other/1800x1200_cat_relaxing_on_patio_other.jpg?resize=750px:*)
+
+     ```js
+     console.log("hello");
+     ```
